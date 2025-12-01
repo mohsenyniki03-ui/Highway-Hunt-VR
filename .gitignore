@@ -1,0 +1,6 @@
+
+# Large PSD source files (not needed in repo)
+*.psd
+
+# Unity Library artifacts (regenerated automatically)
+Library/Artifacts/
